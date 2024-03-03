@@ -1,0 +1,53 @@
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\bin\Debug\EasyApp.exe.config
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\bin\Debug\EasyApp.exe
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\bin\Debug\EasyApp.pdb
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.AssemblyReference.cache
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\MainWindow.g.cs
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\App.g.cs
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp_MarkupCompile.cache
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp_MarkupCompile.lref
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\App.baml
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\MainWindow.baml
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.g.resources
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.Properties.Resources.resources
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.GenerateResource.cache
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.CoreCompileInputs.cache
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.exe
+F:\College\III yer\2s\Проектування АІС\15.02 Практична робота Розробка дизайну і зчитування введених даних, Створення бази даних. Реєстрація користувачів\EasyApp\EasyApp\obj\Debug\EasyApp.pdb
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.AssemblyReference.cache
+F:\Works\EasyApp\EasyApp\obj\Debug\MainWindow.g.cs
+F:\Works\EasyApp\EasyApp\obj\Debug\App.g.cs
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp_MarkupCompile.cache
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp_MarkupCompile.lref
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.exe
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.pdb
+F:\Works\EasyApp\EasyApp\bin\Debug\EasyApp.exe.config
+F:\Works\EasyApp\EasyApp\bin\Debug\EasyApp.exe
+F:\Works\EasyApp\EasyApp\bin\Debug\EasyApp.pdb
+F:\Works\EasyApp\EasyApp\bin\Debug\EntityFramework.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\MaterialDesignColors.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\System.Data.SQLite.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Works\EasyApp\EasyApp\bin\Debug\EntityFramework.xml
+F:\Works\EasyApp\EasyApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Works\EasyApp\EasyApp\bin\Debug\MaterialDesignColors.pdb
+F:\Works\EasyApp\EasyApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Works\EasyApp\EasyApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Works\EasyApp\EasyApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Works\EasyApp\EasyApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Works\EasyApp\EasyApp\bin\Debug\System.Data.SQLite.xml
+F:\Works\EasyApp\EasyApp\obj\Debug\App.baml
+F:\Works\EasyApp\EasyApp\obj\Debug\MainWindow.baml
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.g.resources
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.Properties.Resources.resources
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.GenerateResource.cache
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.CoreCompileInputs.cache
+F:\Works\EasyApp\EasyApp\obj\Debug\EasyApp.csproj.CopyComplete
+F:\Works\EasyApp\EasyApp\obj\Debug\AuthWindow.g.cs
+F:\Works\EasyApp\EasyApp\obj\Debug\AuthWindow.baml
+F:\Works\EasyApp\EasyApp\obj\Debug\UserPageWindow.g.cs
+F:\Works\EasyApp\EasyApp\obj\Debug\UserPageWindow.baml

@@ -1,0 +1,34 @@
+﻿<Window x:Class="EasyApp.MainWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyApp"
+        mc:Ignorable="d"
+        Title="Додаток для користувачiв" Height="600" Width="1000">
+    <Grid Background="Chocolate">
+        <Border MinWidth="400" Margin="15" Background="White" VerticalAlignment="Center" Padding="30" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="BlueViolet" ShadowDepth="0"></DropShadowEffect>
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="Вiтаю!" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
+
+                <Grid Margin="0 0 0 20">
+                    <Button HorizontalAlignment="Left" Content="Реєстрація"/>
+                    <Button HorizontalAlignment="Right" Content="Увiйти" Click="Button_Window_Auth_Click" Style="{StaticResource MaterialDesignFlatButton}"/>
+                </Grid>
+
+                <TextBox x:Name="textBoxLogin" materialDesign:HintAssist.Hint="Введiть логiн" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="passBox" materialDesign:HintAssist.Hint="Введiть пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+                <PasswordBox x:Name="passBox2" materialDesign:HintAssist.Hint="Повторно введiть пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+
+                <TextBox x:Name="textBoxEmail" materialDesign:HintAssist.Hint="Введiть email" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <Button x:Name="regButton" Content="Зареєструватися" Margin="0 20" Click="Button_Click"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

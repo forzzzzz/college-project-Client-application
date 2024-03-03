@@ -1,0 +1,47 @@
+﻿<Window x:Class="EasyApp.AuthWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasyApp"
+        mc:Ignorable="d"
+        Title="Додаток для користувачiв" Height="450" Width="800">
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <BeginStoryboard>
+                <Storyboard TargetProperty="Width" TargetName="authButton">
+                    <DoubleAnimation From="0"
+                                     To="450"
+                                     AutoReverse="True"
+                                     RepeatBehavior="4x"
+                                     Duration="0:0:3"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    
+    <Grid Background="Chocolate">
+        <Border MinWidth="400" Margin="15" Background="White" VerticalAlignment="Center" Padding="30" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="BlueViolet" ShadowDepth="0"></DropShadowEffect>
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="Авторизація" FontSize="30" FontWeight="Bold" Margin="0 0 0 20"/>
+
+                <Grid Margin="0 0 0 20">
+                    <Button HorizontalAlignment="Left" Content="Реєстрація" Click="Button_Reg_Click"/>
+                    <Button HorizontalAlignment="Right" Content="Увiйти" Style="{StaticResource MaterialDesignFlatButton}"/>
+                </Grid>
+
+                <TextBox x:Name="textBoxLogin" materialDesign:HintAssist.Hint="Введiть логiн" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="passBox" materialDesign:HintAssist.Hint="Введiть пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+
+                <Button x:Name="authButton" Content="Увійти в кабінет" Margin="0 20" Click="Button_Auth_Click"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
